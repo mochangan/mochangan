@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mochangan
+It is a game mod about Frostpunk2
 
 
 <!---
